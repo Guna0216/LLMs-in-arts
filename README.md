@@ -16,3 +16,5 @@ HOW TO REPRODUCE RESULTS FOR TASK 3:
 4. Ignore the first two attempts which are labelled "DO NOT USE".
 5. Starting from the Third attempt, labelled "ATTEMPT 3: USE THIS", execute every block of code in order.
 6. View results.
+
+**Most of our milestone 2 code was overwritten by our milestone 3 code, although you can still see artifacts of previous attempts in "NLP_task_3_modified.ipynb" and some commented-out code in other files
